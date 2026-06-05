@@ -38,3 +38,6 @@ The model was trained and evaluated on the dataset and achieved satisfactory cla
 ## Author
 KATAMONI Sai Charith
 Matriculation Number: 44897910
+
+## kaggle notebook link
+https://www.kaggle.com/code/charithkatamoni/dog-skin-disease-classification-ipynb
